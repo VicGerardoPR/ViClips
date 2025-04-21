@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+transformers
+torch
+moviepy==1.0.3
+ffmpeg-python
+yt_dlp
+imageio
+imageio-ffmpeg
